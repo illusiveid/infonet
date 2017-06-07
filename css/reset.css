@@ -1,0 +1,22 @@
+.title {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+p {
+    text-align: center;
+
+}
+
+#id {
+    font-size: 16px;
+}
+
+.bg-white {
+    background-color:white;
+}
+
+.header_bar {
+    margin-top: 5px; 
+    margin-bottom: 5px;
+}

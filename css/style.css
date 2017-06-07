@@ -1,0 +1,400 @@
+
+.navbar-inverse{
+	box-sizing: border-box;
+	background-color: #222222;
+	border-bottom: 8px solid #e93d27 !important;
+	width: 100%;
+	min-width: 1170px;
+}
+.container{
+	min-width: 1170px;
+}
+}
+.line{
+	height: 15px;
+	background-color: orange;
+}
+.home{
+	margin-top: 58px;
+}
+.text-justify{
+	font-family: 'Raleway', sans-serif;
+}
+.navbar-brand{
+	font-family: 'Raleway', sans-serif;
+}
+.font-13px{
+	font-size: 13px;
+}
+body{
+	background-color: #e7e7ef;
+	font-family: 'Raleway', sans-serif;
+	position: relative;
+	width: 100%;
+}
+.form-control{
+	padding: 2px 3px 2px 3px;
+}
+.footer-1{
+	 box-sizing: border-box;
+	height: 190px;
+	color: white;
+	background-color: #353535;
+	border-top: 8px solid #e93d27 !important;
+}
+.black2{
+	height: 40px;
+	color: white;
+	background-color: black;
+}
+.isi{
+	border-top: 6px solid #e93d27 !important;
+	background-color: white; 
+}
+.reg{
+	border-top: 6px solid #e93d27 !important;
+	background-color: white; 
+	height: 770px;
+}
+.mid{
+	display: block;
+    margin: 0 auto;
+ }
+
+ .login{
+ 	width: 65px;
+    height: 22px;
+    margin: 13px 10px;
+    padding: 1px 1px 1px 1px; 
+    text-align: center;
+    border-radius: 3px;
+}
+.logo{
+	width: 148.66px;
+height: 38.66px;
+margin: 3px 0 0 2px;
+}
+.search-bar{
+padding: 10px 18px 10px 17px;
+width: 45%;
+border-radius: 3px 0 0 3px;
+color: white;
+border-right: 0;
+}
+
+
+.container{
+	padding: 0 0 0 0;
+}
+
+.w-content ul li{
+
+	padding-top: 50px;
+	list-style: none;
+	float: left;
+	width: 28%;
+	margin-right: 2%;
+	position: relative;
+	text-align: center;
+
+}
+.d-content ul li{
+	padding-top: 5px;
+	padding-bottom: 13px;
+	list-style: none;
+	float: left;
+	margin-right: 2%;
+	position: relative;
+
+}
+.w-content ul li h3{
+	padding-top: 35px;
+}
+.w-content ul li p{
+	padding-top: 15px;
+}
+.sliderx{
+	width: 100%;
+}
+.why{
+	width: 100%;
+	height: 227px;
+	background-image: url(../img/home1.png);
+}
+.regisw{
+	background-color: #e93d27;
+	font-size: 20px;
+}
+
+.b1{
+	padding-top: 0px;
+}
+.b2{
+	box-sizing: border-box;
+	border-bottom: 2px solid #e93d27 !important;
+	border-top: 2px solid #e93d27 !important;
+}
+
+.b2 ul li{
+	padding-top: 50px;
+	padding-bottom:  50px;
+	list-style: none;
+	float: left;
+	width: 14.5%;
+	margin-right: 2%;
+	position: relative;
+	text-align: center;
+
+}
+
+.b2 ul li h3{
+	padding-top: 35px;
+}
+.b2 ul li p{
+	padding-top: 15px;
+}
+.b3{
+	box-sizing: border-box;
+	background-color: #f5f4f4;
+}
+.footer-item{
+	margin-right:3%; 
+	margin-left:3%;
+	text-align: center;
+	color: white;
+	}
+.warnet-info{
+	width: 153px;
+	margin: auto;
+	border-radius: 7px;
+	background-color: #f5f4f4;
+	padding: 5px 5px 9px 5px;
+	border: 1px solid #d1d1d1 !important;
+	color: black;
+	text-decoration: none;
+	box-shadow: 0 0 1px #b0b0b0;
+
+}
+.warnet-info:hover{
+	box-shadow: 0 0 10px #b0b0b0;
+	text-decoration: none;
+}
+.isi-warnet-list{
+	background-color: white;
+}
+.list-isi{
+
+}
+.search-div{
+
+	border-bottom:  3px solid #e93d27 !important;
+	background-color: #f5f4f4;
+	padding-bottom: 50px;
+}
+.search-menu ul li{
+	list-style: none;
+	float: left;
+}
+.pv2{
+	padding: 0 0 0 0;
+}
+.w-list{
+	background-color: white;
+	
+}
+.w-list ul li{
+	padding-top: 10px;
+	padding-bottom:  10px;
+	list-style: none;
+	width: 100%;
+
+}
+
+.warnet-list{
+	width: 90%;
+	margin: 1% 0 1% 0;
+	border-radius: 7px;
+	background-color: #f5f4f4;
+	padding: 5px 5px 9px 5px;
+	border: 1px solid #d1d1d1 !important;
+	color: black;
+	box-shadow: 0 0 1px #b0b0b0;
+	text-decoration: none;
+
+}
+.warnet-list:hover{
+	box-shadow: 0 0 10px #b0b0b0;
+	text-decoration: none;
+}
+
+.warnet-list ul li{
+	padding-top: 3px;
+	padding-bottom:  3px;
+	list-style: none;
+	float: left;
+	width: auto;
+	margin-right: 2%;
+	position: relative;
+	text-align: left;
+
+}
+.detail-list ul li{
+	list-style: none;
+	float: left;
+	width: auto;
+	margin-right: 1%;
+	text-align: left;
+}
+.cari{
+	background-color: #e93d27;
+	border-color: #e93d27
+	font-size:13px;
+}
+.cari:hover{
+	background-color: #cb3724;
+	border-color: #cb3724
+}
+.active a{
+    background-color: #e93d27 !important;
+    border-color: #cb3724 !important;
+}
+.warnet-tittle{
+	font-size: 37px;
+	font-family: Impact;
+	line-height: 65px;
+	padding-left: 42px;
+}
+.warnet-tittle a{
+	margin: 10px 0 0 800px;
+}
+.tittle{
+	font-family: Impact;
+}
+.warnet-tittle a:hover{
+	color: #e93d27;
+	border-color: #e93d27 !important;
+	background-color: transparent;
+}
+.b-1{
+	background-color: blue;
+}
+.b-2{
+	background-color: red;
+}
+.site-map{
+	height: 50px
+}
+
+
+div#slide_flip_controls {
+  text-align:center;
+}
+#slide_flip_controls span {
+  padding-right:2em;
+  cursor:pointer;
+}
+
+#slide_flip_container {
+width: 323px;
+height: 319px;
+  overflow:hidden; /* So the sliding bit doesn't stick out. */
+  margin:0 auto 10px;
+}
+#slide_flip_images {
+  /* This is the bit that moves. It has 4 images, so 4 * 600 = 2400. You could use javascript
+  to work this out instead by counting images. */
+  width:1288px;
+
+  -webkit-transition:all 1.0s ease-in-out;
+  -moz-transition:all 1.0s ease-in-out;
+  -o-transition:all 1.0s ease-in-out;
+  transition:all 1.0s ease-in-out;
+}
+#slide_flip_images img {
+  padding:0;
+  margin:0;
+  float:left; /* All the images are in a row next to each other. */
+}
+.slide-img{
+	width: 322px;
+	height: 319px;
+}
+.slide-img-small{
+	width: 40.25px;
+	height: 39.8755px;
+	border: 2px solid #626262 !important;
+}
+.slide-img-box{
+	margin: 10px 10px 10px 0px;
+	border: 1px solid #dcdcdc !important;
+	padding: 8px 8px 8px 8px;
+}
+.slide-img-box p{
+	font-size: 12px;
+	margin: 0 0 0 0;
+}
+.slide-img-box hr{
+	margin: 8px 0 8px 0;
+}
+.slide-img-box ul li{
+	font-size: 13px;
+}
+#map{
+	border: 3px solid #dcdcdc !important;
+	border-radius: 6px;
+	width:100%;
+	height:400px;
+	background-color: red;
+}
+.pesan{
+	font-weight: bold;
+	background-color: #e93d27;
+	border-color: #e93d27
+	font-size:18px;
+}
+.pesan:hover{
+	background-color: #ff4831;
+	border-color: #ff4831;
+}
+.sitemap{
+	margin:15px 0 0 0;
+	padding: 0 0 0 0;
+}
+.sitemap ul li{
+	list-style: none;
+	float: left;
+	margin-right: 6px;
+	font-size: 13px;
+}
+.sitemap a{
+	color: #e93d27;
+}
+.sitemap a:hover{
+	color: black;
+	text-decoration: none;
+}
+.logo-reg{
+	width: 222.99px;
+	height: 57.99px;
+	margin: auto;
+	display: flex;
+}
+.voucher ul li{
+	list-style: none;
+	float: left;
+	margin-right: 6px;
+	font-size: 13px;
+}
+.box-voucher{
+	background-color: #e5eaee;
+	border-radius: 5px;
+	margin-top: 18px;
+}
+.regg{
+	border-top: 6px solid #e93d27 !important;
+	background-color: white; 
+	height: 650px;
+}
+.review{
+	background-color: #f5f4f4;
+}
